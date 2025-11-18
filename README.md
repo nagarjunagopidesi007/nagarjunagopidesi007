@@ -1,6 +1,6 @@
+![logo](https://github.com/nagarjunagopidesi007/nagarjunagopidesi007/blob/main/WhatsApp%20Image%202025-11-18%20at%2012.54.17.jpeg)
 <h1 align="center">Hi 👋, I'm Nagarjuna gopidesi</h1>
 <h3 align="center">Data Analysis with AI</h3>
-
 - 📫 How to reach me **nagarjunagopidesi007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
